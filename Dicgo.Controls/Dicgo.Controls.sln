@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicgo.Controls", "Dicgo.Controls\Dicgo.Controls.csproj", "{A5DB8A50-AD78-474B-8954-A4F442F78FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DB8A50-AD78-474B-8954-A4F442F78FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DB8A50-AD78-474B-8954-A4F442F78FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DB8A50-AD78-474B-8954-A4F442F78FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DB8A50-AD78-474B-8954-A4F442F78FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A95597-D486-4AB5-83D1-62681BCF47EE}
+	EndGlobalSection
+EndGlobal
