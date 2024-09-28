@@ -1,4 +1,17 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <SolidColorBrush x:Key="iconButtonMouseOverColor" Color="#009CFF"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuOverBrush" Color="#B1C5FF"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuBackBrush" Color="#E9EEFF"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuLineStep" Color="#C0CAE9"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuOverBorderBrush" Color="Black"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuBorderBrush" Color="LightGray"></SolidColorBrush>
+    <SolidColorBrush x:Key="menuDisabledForground" Color="LightGray"></SolidColorBrush>
+    <SolidColorBrush x:Key="closeButtonForground" Color="Black"></SolidColorBrush>
+    <!--DataGridStyle-->
+    <SolidColorBrush x:Key="datagridLinesBrush" Color="DimGray" />
+    <SolidColorBrush x:Key="datagridColumnHeaderBackground" Color="#E9ECF6" />
+    <SolidColorBrush x:Key="datagridColumnHeaderForeground" Color="Black" />
+    <SolidColorBrush x:Key="datagridRowMouseOver" Color="#D9E6F6" />
+    <SolidColorBrush x:Key="datagridRowSelected" Color="#FF9FC7F7" />
 </ResourceDictionary>

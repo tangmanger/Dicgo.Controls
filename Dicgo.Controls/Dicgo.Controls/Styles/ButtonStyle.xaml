@@ -6,7 +6,7 @@
     </ResourceDictionary.MergedDictionaries>
     <ScaleTransform x:Key="buttonScale" ScaleX="0.8" ScaleY="0.8"></ScaleTransform>
     <Style x:Key="IconButtonStyle" TargetType="Button">
-        <Setter Property="Foreground" Value="LightGray"></Setter>
+        <Setter Property="Foreground" Value="{DynamicResource closeButtonForground}"></Setter>
         <Setter Property="Background" Value="Transparent"></Setter>
         <Setter Property="BorderBrush" Value="Transparent"></Setter>
         <Setter Property="Template">
